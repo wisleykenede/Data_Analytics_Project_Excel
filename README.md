@@ -1,2 +1,2 @@
-# Data_Analytics_Project_Excel
- My projects demonstrating my Excel skills 
+# My Excel Data Analytics Projects  
+ This repo contains two projects that I did on Data Analytics using Excel. For both projects I used a small portion of the dataset of the app [datanerd.tech](datanerd.tech) made by [Luke Barousse](https://www.lukebarousse.com/), that contains approximately 32000 job postings from 2023. You can find the dataset itself on the [Resources](Resources) folder of this repo.
