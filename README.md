@@ -8,3 +8,5 @@
 
 ## Salary and Skills Analysis
  Following the same idea of helping job seekers from the first project, this time I focused more on the skills required in the job postings of the same [dataset](Resources/Dataset), to find what are the most popular skills among diferents jobs and which of them have the highest pay.  
+
+ ![Project Analysis Chart 1](Resources/Images/Project_Analysis_Chart1.png)  
