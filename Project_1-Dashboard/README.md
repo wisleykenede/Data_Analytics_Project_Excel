@@ -18,7 +18,7 @@
  - ❎ **Data Validation**
 
 ### Data Jobs Dataset
- The Dataset utilized on this project and more information about it can be found [here](../Resources/Dataset/data_jobs_salary_all.xlsx).
+ The Dataset utilized on this project and more information about it can be found [here](../Resources/Dataset).
 
 ## Dashboard Build
 
