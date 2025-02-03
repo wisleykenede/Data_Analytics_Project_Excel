@@ -2,7 +2,7 @@
 
 ## Introduction
 
- Following the same idea of helping job seekers from the first project, this time I focused more on the skills required in the job postings of the same [dataset](Resources/Dataset), to find what are the most popular skills among diferents jobs and which of them have the highest pay.  
+ Following the same idea of helping job seekers from the first project, this time I focused more on the skills required in the job postings of the same [dataset](../Resources/Dataset), to find what are the most popular skills among diferents jobs and which of them have the highest pay.  
 
 ### Questions to Analyze
  
