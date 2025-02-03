@@ -56,7 +56,7 @@
 
  - This formula provides specific salary information for given job titles, regions, and schedule types.
  - Utilizes `MEDIAN()` function with nested `IF()` statement to analyze an array.
- - The condition section of the `IF()` statement simple does a multiplication of the binary result of three verifications of the variables **title**, **country** and **type**.
+ - The condition section of the `IF()` statement does a multiplication of the binary result of three verifications of the variables **title**, **country** and **type**.
  - This formula can be used to populate the table below, returning the median salary based on job title, country, and type specified.
  - In this case, **country** and **type** are fixed parameters where **title** varies based on the column *job_title_short_sorted*.
 
