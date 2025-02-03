@@ -82,10 +82,14 @@
 
 ## 1️⃣ What’s the salary for data jobs in different regions?
 
-### Skills: PivotTables & DAX
+### Skills: Pivot Tables & DAX
 
+#### 📊 Pivot Table
+ 
  - I created a PivotTable using the Data Model I created with Power Pivot.
  - I moved the `job_title_short` to the rows area so I can filter all the job titles. And for the values I created 3 measures using DAX.
+
+ ![Pivot Table Field](../Resources/Images/Project_Analysis_Pivot_Table_Field.png)  
 
 #### 🧮 DAX
 
