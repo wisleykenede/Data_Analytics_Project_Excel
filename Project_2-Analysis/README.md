@@ -8,10 +8,10 @@
  
  To understand the data science job market, I asked the following:
 
- 1. **Do more skills get you better pay?**
- 2. **What’s the salary for data jobs in different regions?**
- 3. **What are the top skills of data professionals?**
- 4. **What’s the pay for the top 10 skills?**
+ 1. **What’s the salary for data jobs in different regions?**
+ 2. **What are the top skills of data professionals?**
+ 3. **What’s the pay for the top 10 skills?**
+ 4. **Do more skills get you better pay?**
 
 ### Excel Skills Used
 
