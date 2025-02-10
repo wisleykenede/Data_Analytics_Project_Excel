@@ -4,7 +4,7 @@
 
 ## Introdução
 
- Esse dashboard foi criado para servir como orientação para candidatos a emprego investigar salários para diversos empregos em Ciência de Dados em város países.
+ Esse dashboard foi criado para servir como orientação para candidatos a empregos de Ciência de Dados investigar salários para diversos cargos em város países.
 
 ### Dashboard File
  Meu dashboard final está no arquivo [Salary_Dashboard.xlsx](Salary_Dashboard.xlsx).
