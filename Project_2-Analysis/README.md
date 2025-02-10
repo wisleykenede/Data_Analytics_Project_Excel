@@ -1,3 +1,5 @@
+[Verão em Português deste README](README-ptbr.md)
+
 # Project 2 - Analysis
 
 ## Introduction
