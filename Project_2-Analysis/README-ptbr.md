@@ -1,5 +1,3 @@
-[Verão em Português deste README](README-ptbr.md)
-
 # Projeto 2 - Análise em Salários e Habilidades
 
 ## Introdução
