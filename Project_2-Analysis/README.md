@@ -76,8 +76,6 @@
 
  ![Data_Model](../Resources/Images/Project_Analysis_Data_Model.png)
 
-#### 📃 Power Pivot Menu
-
  - With the Data Model established on Power Pivot, we can now use DAX to create measures that will be used on the Analysis.
 
 ## 1️⃣ What’s the salary for data jobs in different regions?
@@ -150,7 +148,7 @@
 
  ![Chart1](../Resources/Images/Project_Analysis_Chart1.png)
 
- - This chart highlights the importance of investing time in learning high-value skills, which are evidently tied to higher paying roles, especially for those looking to maximize their salary in the tech industry.
+ - This chart highlights the importance of investing time in learning high-value skills, which are evidently tied to higher paying roles.
 
 ## 4️⃣ Do more skills get you better pay?
 

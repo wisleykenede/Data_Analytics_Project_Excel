@@ -1,3 +1,5 @@
+[Verão em Português deste README](README-ptbr.md)
+
 # Project 1 - Excel Salary Dashboard
 
  ![Salary Dashboard Pic](../Resources/Images/Salary_Dashboard.png)
@@ -58,7 +60,7 @@
  - Utilizes `MEDIAN()` function with nested `IF()` statement to analyze an array.
  - The condition section of the `IF()` statement does a multiplication of the binary result of three verifications of the variables `title`, `country` and `type`.
  - This formula can be used to populate the table below, returning the median salary based on job title, country, and type specified.
- - In this case, **country** and **type** are fixed parameters where **title** varies based on the column *job_title_short_sorted*.
+ - In this case, `country` and `type` are fixed parameters where `title` varies based on the column *job_title_short_sorted*.
 
  **Background Table**
 
@@ -78,7 +80,7 @@
 )
  ```
 
- - This Excel formula below uses the `FILTER()` function to exclude entries containing "and" or commas, and omit zero values.
+ - This Excel formula above uses the `FILTER()` function to exclude entries containing "and" or commas, and omit zero values.
  - This formula populates the table below, which gives us a list of unique job schedule types.
  
  **Background Table**
@@ -102,4 +104,4 @@
 
 ## Conclusion
 
- I created this dashboard to showcase insights into salary trends across various data-related job titles. It allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries.
+ I created this dashboard to showcase insights into salary trends across various data-related job titles. It allows users to make informed decisions about their career paths, exploring the functionalities to understand how location and job type influence salaries.

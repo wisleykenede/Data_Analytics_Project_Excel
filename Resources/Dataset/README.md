@@ -1,3 +1,5 @@
+[Verão em Português deste README](README-ptbr.md)
+
 # Job Postings Dataset
 
  [`data_jobs_salary_all.xlsx`](data_jobs_salary_all.xlsx)
